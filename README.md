@@ -1,7 +1,7 @@
 # Привет, я Иван 👋
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/ваш_username)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:ваш_email@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/KuroiSamurai)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:alferov.ivan23@gmail.com)
 
 Фронтенд-разработчик с опытом в современных веб-технологиях.
 
